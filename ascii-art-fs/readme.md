@@ -1,6 +1,6 @@
 Objectives:
 
-You must follow the same instructions as in the first subject but the second argument must be the name of the template. I know some templates may be hard to read, just do not obsess about it. Please...
+You must follow the same instructions as in "ascii-art" but the second argument must be the name of the template. I know some templates may be hard to read, just do not obsess about it. Please...
 
 
 Instructions:
