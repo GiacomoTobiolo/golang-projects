@@ -1,5 +1,4 @@
 Objectives
-
 You must follow the same instructions as in the first subject but the second argument must be the name of the template. I know some templates may be hard to read, just do not obsess about it. Please...
 
 
@@ -17,12 +16,10 @@ EX: go run . something standard
 
 
 Allowed packages
-
 Only the standard Go packages are allowed
 
 
 This project will help you learn about :
-
 The Go file system(fs) API
 
 Data manipulation
