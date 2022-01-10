@@ -1,0 +1,2 @@
+In order to color a specific letter please use third argument as follow: [string] [option] [firstelement] = "hello" --color=blue 3<br>
+In order to color more than one letter (consecutives) please use third and fourth argument as follow: [string] [option] [firstelement] [secondelement] = "hello" --color=blue 0 2
