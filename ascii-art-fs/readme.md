@@ -16,9 +16,14 @@ Usage: go run . [STRING] [BANNER]
 EX: go run . something standard
 
 
+
+
+
 Allowed packages
 
 Only the standard Go packages are allowed
+
+
 
 
 This project will help you learn about :
