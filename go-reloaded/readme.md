@@ -1,4 +1,8 @@
 Introduction\
+
+
+In this project you will use some of your old functions made in your old repository. You will use them with the objective of making a simple text completion/editing/auto-correction tool.
+
 Your project must be written in Go.
 The code must respect the good practices.
 The tool you are about to build will receive as arguments the name of a file containing a text that needs some modifications (the input) and the name of the file the modified text should be placed in (the output). Next is a list of possible modifications that your program should execute:
@@ -24,3 +28,8 @@ Every instance of a should be turned into an if the next word begins with a vowe
 
 Allowed packages\
 Only the standard Go packages are allowed
+  
+This project will help you learn about :
+
+The Go file system(fs) API
+String and numbers manipulation
