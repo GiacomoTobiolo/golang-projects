@@ -1,4 +1,4 @@
-Introduction
+Introduction\
 Your project must be written in Go.
 The code must respect the good practices.
 The tool you are about to build will receive as arguments the name of a file containing a text that needs some modifications (the input) and the name of the file the modified text should be placed in (the output). Next is a list of possible modifications that your program should execute:
@@ -22,5 +22,5 @@ The punctuation mark ' will always be found with another instance of it and they
 If there are more than one word between the two ' ' marks, the program should place the marks next to the corresponding words (Ex: "As Elton John said: ' I am the most well-known homosexual in the world '" -> "As Elton John said: 'I am the most well-known homosexual in the world'")
 Every instance of a should be turned into an if the next word begins with a vowel or an h. (Ex: "There it was. A amazing rock!" -> "There it was. An amazing rock!").
 
-Allowed packages
+Allowed packages\
 Only the standard Go packages are allowed
