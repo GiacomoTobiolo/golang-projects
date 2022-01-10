@@ -6,8 +6,8 @@ Instructions
 
 Your project must be written in Go.
 The code must respect the good practices.
-It is recommended to have test files for unit testing.
 You can see all about the banners here.
+
 The usage must respect this format go run . [STRING] [BANNER], any other formats must return the following usage message:
 
 Usage: go run . [STRING] [BANNER]
