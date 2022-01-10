@@ -25,7 +25,7 @@ Characters are separated by a new line \n.
 Allowed packages\
 Only the standard Go packages are allowed
 
-This project will help you learn about :\
+This project will help you learn about :
 
 The Go file system(fs) API
 Data manipulation
