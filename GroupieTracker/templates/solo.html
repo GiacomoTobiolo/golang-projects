@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+   
+
+</head>
+<style>
+    .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    border-radius: 5px;
+    display: flex;
+
+    }
+    
+    .card:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+    
+    .container {
+      padding: 2px 16px;
+    }
+    </style>
+
+<body>
+    <div class="card">
+        <img id="img" src={{.Image}} class="Image" alt={{.Name}} style="width:80%">
+        <div class="container">
+            <p>{{ .Name}}</p>
+            <p>{{ .Members}}</p>
+            <p>{{ .Creation}}</p>
+            <p>{{ .First}}</p>
+            <p>{{ .Relation}}</p> 
+        </div>
+    </div>
+
+</body>
+</html>
